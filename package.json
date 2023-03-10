@@ -2,7 +2,7 @@
     "name": "willi-style",
     "displayName": "Willi Style",
     "description": "A nice cozy orange styled theme",
-    "icon": "./icon.png",
+    "icon": "https://raw.githubusercontent.com/iamstrawberry/willi-style/main/icon.png",
     "version": "0.0.2",
     "publisher": "wQ",
     "engines": {
@@ -17,7 +17,7 @@
           "label": "Willi Style",
           "uiTheme": "vs-dark",
           "path": "./themes/willi-style.json"
-        }
+        },
         {
           "label": "Willi Style Darker",
           "uiTheme": "vs-dark",
@@ -28,6 +28,10 @@
     "galleryBanner": {
       "color": "#ff6e42",
       "theme": "dark"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/iamstrawberry/willi-style.git"
     },
     "license": "./LICENSE",
     "keywords": [
