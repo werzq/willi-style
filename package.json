@@ -3,7 +3,7 @@
     "displayName": "Willi Style",
     "description": "A nice cozy orange styled theme",
     "icon": "./icon.png",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "wQ",
     "engines": {
       "vscode": "^1.12.0"
@@ -22,6 +22,11 @@
           "label": "Willi Style Darker",
           "uiTheme": "vs-dark",
           "path": "./themes/willi-style-darker.json"
+        },
+        {
+          "label": "Willi Style Darkest",
+          "uiTheme": "vs-dark",
+          "path": "./themes/willi-style-darkest.json"
         }
       ]
     },
