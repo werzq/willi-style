@@ -14,9 +14,9 @@
     "contributes": {
       "themes": [
         {
-          "label": "Willi Style",
+          "label": "Willi Style Dark",
           "uiTheme": "vs-dark",
-          "path": "./themes/willi-style.json"
+          "path": "./themes/willi-style-dark.json"
         },
         {
           "label": "Willi Style Darker",
