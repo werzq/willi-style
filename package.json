@@ -2,7 +2,7 @@
     "name": "willi-style",
     "displayName": "Willi Style",
     "description": "A nice cozy orange styled theme",
-    "icon": "https://raw.githubusercontent.com/iamstrawberry/willi-style/main/icon.png",
+    "icon": "./icon.png",
     "version": "0.0.2",
     "publisher": "wQ",
     "engines": {
