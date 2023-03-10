@@ -1,0 +1,38 @@
+{
+    "name": "willi-style",
+    "displayName": "Willi Style",
+    "description": "A nice cozy orange styled theme",
+    "icon": "./icon.png",
+    "version": "0.0.2",
+    "publisher": "wQ",
+    "engines": {
+      "vscode": "^1.12.0"
+    },
+    "categories": [
+      "Themes"
+    ],
+    "contributes": {
+      "themes": [
+        {
+          "label": "Willi Style",
+          "uiTheme": "vs-dark",
+          "path": "./themes/willi-style.json"
+        }
+        {
+          "label": "Willi Style Darker",
+          "uiTheme": "vs-dark",
+          "path": "./themes/willi-style-darker.json"
+        }
+      ]
+    },
+    "galleryBanner": {
+      "color": "#ff6e42",
+      "theme": "dark"
+    },
+    "license": "./LICENSE",
+    "keywords": [
+      "willi",
+      "willi style",
+      "willi-style"
+    ]
+}
